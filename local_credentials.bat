@@ -1,0 +1,5 @@
+set WOO_KEY=ck_dc110bc9b66dc018fee68e87ad182aea7c9375c1
+set WOO_SECRET=cs_8b1cadf9bbc2120a1d981307c576b5fdcc138d06
+
+set DB_USER=root
+set DB_PASSWORD=root
